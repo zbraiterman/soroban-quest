@@ -83,7 +83,7 @@ your actual workflow, building expertise with actual dev tools while you learn t
 
 #### Highlights include:
 
-- 📘 **Interactive IDE-Based Learning:** Test your knowledge directly with quizes built into the IDE through VS Code.
+- 📘 **Interactive IDE-Based Learning:** Test your knowledge directly with quizzes built into the IDE through VS Code.
   tasks
 - ✅ **Guided Learning:** Clearly structured, modified TODO task trees, lead you step by step through each contract.
 - 🛠️ **Automated Feedback:** GitHub Actions verify your knowledge with automatically evaluated quizzes and coding tasks,
